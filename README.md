@@ -1,7 +1,7 @@
 # SuperBall
-Continuing to learn 6502 assembly on the Commander X16
+Continuing to learn 6502 assembly on the Commander X16.
 
-I wanted to have a play around with a creating a sprite and to see if I could do somethign more interesting than having it follow the mouse.
+I wanted to have a play around with a creating a sprite and to see if I could do something more interesting than having it follow the mouse.
 
 ## The algorithm
 When the game loads a ball is tossed from the top of the screen.
