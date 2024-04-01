@@ -8,4 +8,4 @@ When the game loads a ball is tossed from the top of the screen.
 
 The ball is given an initial horizontal velocity of $0F (15).
 The vertical distance travelled per time unit is derived from a lookup table as I didn't want to do floationg point calculations for gravity.
-As the ball loses altitude, the speed is also retarded to make it look slightly more natuaral as it approaches the bottom of the screen.
+As the ball loses altitude, the speed is also retarded to make it look slightly more natural as it approaches the bottom of the screen.
