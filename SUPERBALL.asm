@@ -34,7 +34,7 @@ SPRITE_YDIR:         .res 1   ; Pos/Neg direction of travel
 
    jmp start
 
-.include "..\INC\x16.inc"
+.include "x16.inc"
 
 VRAM_BALL    = $04560 ; the location of the ball sprite data in memory 
 SPRITE1_ATTR = $1FC08 ; the start of the attribute registers for sprite 1
